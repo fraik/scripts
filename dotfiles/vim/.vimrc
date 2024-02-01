@@ -5,7 +5,6 @@
 :se shiftwidth=4      " number of spaces when indenting using >
 :se expandtab         " tabs are spaces
 :se nu                " linenumbers
-:se showmode          " show mode
 :se showcmd           " show command in showcmdloc
 :se wildmenu          " visual autocomplete for command menu
 :se lazyredraw        " redraw only when we need to
